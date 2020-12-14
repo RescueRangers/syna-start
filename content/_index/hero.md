@@ -6,8 +6,8 @@ weight = 50
 background = "dark" # can influence the text color
 particles = false
 
-title = "Drzewiecki nagrobki"
-subtitle = "Drzewiecki Nagrobki"
+#title = "Drzewiecki nagrobki"
+#subtitle = "Drzewiecki Nagrobki"
 
 [header]
   image = "header.jpg"

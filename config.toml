@@ -71,14 +71,44 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
+  identifier = "oferta"
   url = "/oferta"
   name = "Nasza oferta"
   weight = 20
 
 [[menu.main]]
-  url = "#contact"
-  name = "Contact"
+  identifier = "realizacje"
+  url = ""
+  name = "Nasze realizacje"
   weight = 30
+
+[[menu.main]]
+  identifier = "realizacje-pojedyncze"
+  url = "/realizacje-pojedyncze"
+  name = "Nagrobki pojedyńcze"
+  weight = 10
+  parent = "realizacje"
+
+[[menu.main]]
+  identifier = "realizacje-podwojne"
+  url = "/realizacje-podwojne"
+  name = "Nagrobki podwójne"
+  weight = 20
+  parent = "realizacje"
+
+[[menu.main]]
+  identifier = "realizacje-grobowce"
+  url = "/realizacje-grobowce"
+  name = "Grobowce"
+  weight = 30
+  parent = "realizacje"
+
+[[menu.main]]
+  identifier = "realizacje-dzieciece"
+  url = "/realizacje-dzieciece"
+  name = "Nagrobki dziecięce"
+  weight = 40
+  parent = "realizacje"
 
 [[menu.footer]]
   url = "#"

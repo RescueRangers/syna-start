@@ -86,3 +86,11 @@ footer .footer-bottom p {
   text-shadow: 1px 1px 30px #000;
   margin: 0;
 }
+
+.hero {
+  height: 360px;
+}
+
+.jumbotron {
+  padding: 8rem 2rem;
+}
