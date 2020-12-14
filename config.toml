@@ -24,7 +24,7 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
+  name = "Firma Nagrobkowa Sebastian Drzewiecki"
   description = "Open Source Theme for your next project"
 
   [params.style]
@@ -96,13 +96,13 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
+  url = "/oferta"
+  name = "Nasza oferta"
   weight = 10
 
 [[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
+  url = "realizacje"
+  name = "Nasze realizacje"
   weight = 30
 
 [[menu.footer_social]]
