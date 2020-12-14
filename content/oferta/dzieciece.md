@@ -1,7 +1,7 @@
 +++
 date = "2018-07-09"
 fragment = "portfolio"
-weight = 130
+weight = 170
 background = "light"
 
 title = "Nagrobki dziecięce"
