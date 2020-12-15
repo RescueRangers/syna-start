@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Drzewiecki - Nagrobki"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
