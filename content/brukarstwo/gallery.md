@@ -9,4 +9,4 @@ title = "Brukarstwo"
 #subtitle = ""
 +++
 
-{{< gallery dir="/gallery/brukarstwo/" caption-position="none" />}} {{< load-photoswipe >}}
+{{< gallery dir="gallery/brukarstwo/" caption-position="none" />}} {{< load-photoswipe >}}

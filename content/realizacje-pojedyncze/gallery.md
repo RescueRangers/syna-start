@@ -9,4 +9,4 @@ title = "Nagrobki pojedyńcze"
 #subtitle = ""
 +++
 
-{{< gallery dir="/gallery/pojedyncze/" caption-position="none" />}} {{< load-photoswipe >}}
+{{< gallery dir="gallery/pojedyncze/" caption-position="none" />}} {{< load-photoswipe >}}
