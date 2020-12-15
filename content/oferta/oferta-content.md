@@ -2,7 +2,7 @@
 fragment = "content"
 #disabled = true
 date = "2017-10-05"
-weight = 190
+weight = 90
 #background = ""
 
 title = "Oferujemy Państwu usługi takie jak:"
