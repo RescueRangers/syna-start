@@ -11,7 +11,7 @@ title = "Kontakt"
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://example.com/mailout" #default: formspree.io
 email = "mail@example.com"
-button = "Send" # defaults to theme default
+button_text = "Wyślij" # defaults to theme default
 netlify = true
 
 # Optional google captcha
