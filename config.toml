@@ -110,6 +110,19 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 40
   parent = "realizacje"
 
+[[menu.main]]
+  identifier = "brukarstwo"
+  url = "/brukarstwo"
+  name = "Brukarstwo"
+  weight = 50
+  parent = "realizacje"
+
+[[menu.main]]
+  identifier = "banie"
+  url = "/oddzial-banie"
+  name = "Oddział Banie"
+  weight = 40
+
 [[menu.footer]]
   url = "#"
   name = "Link"
