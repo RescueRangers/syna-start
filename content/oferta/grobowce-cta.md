@@ -11,7 +11,7 @@ background = "light"
 
 [[buttons]]
   text = "Zobacz więcej"
-  url = "#"
+  url = "/grobowce"
   color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 +++
