@@ -9,4 +9,4 @@ title = "Nagrobki dziecięce"
 #subtitle = ""
 +++
 
-{{< gallery dir="gallery/dzieciece/" caption-position="none" />}} {{< load-photoswipe >}}
+{{< foldergallery src="gallery/dzieciece/" >}}

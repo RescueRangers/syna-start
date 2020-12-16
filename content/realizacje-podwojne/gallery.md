@@ -9,4 +9,4 @@ title = "Nagrobki podwójne"
 #subtitle = ""
 +++
 
-{{< gallery dir="gallery/podwojne/" caption-position="none" />}} {{< load-photoswipe >}}
+{{< foldergallery src="gallery/podwojne/" >}}

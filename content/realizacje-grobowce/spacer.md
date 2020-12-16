@@ -2,11 +2,9 @@
 fragment = "content"
 #disabled = true
 date = "2017-10-05"
-weight = 190
+weight = 210
 #background = ""
 
-title = "Brukarstwo"
+#title = "Nagrobki dziecięce"
 #subtitle = ""
 +++
-
-{{< foldergallery src="gallery/brukarstwo/" >}}

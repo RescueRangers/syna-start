@@ -12,4 +12,4 @@ title = "Oddział Banie (przy cmentarzu)"
 <h3 style="text-align: center; margin-bottom: 0;">ul. Kunowska</h3>
   <h3 style="text-align: center;">71-110 Banie</h3>
 
-{{< gallery dir="gallery/banie/" caption-position="none" />}} {{< load-photoswipe >}}
+{{< foldergallery src="gallery/banie/" >}}

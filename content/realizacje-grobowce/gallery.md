@@ -9,4 +9,4 @@ title = "Grobowce"
 #subtitle = ""
 +++
 
-{{< gallery dir="gallery/grobowce/" caption-position="none" />}} {{< load-photoswipe >}}
+{{< foldergallery src="gallery/grobowce/" >}}
