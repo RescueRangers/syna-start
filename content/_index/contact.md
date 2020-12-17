@@ -16,7 +16,7 @@ netlify = true
 
 # Optional google captcha
 #[recaptcha]
-#  sitekey = ""
+#  sitekey = "6LfJMAoaAAAAAM1a7EsI_luMLwJLyYvL1oTNZgwE"
 
 [message]
   #success = "" # defaults to theme default
@@ -39,12 +39,4 @@ netlify = true
   text = "Twoja wiadomość *"
   #error = "" # defaults to theme default
 
-# Optional hidden form fields
-# Fields "page" and "site" will be autofilled
-[[fields.hidden]]
-  name = "page"
-
-[[fields.hidden]]
-  name = "someID"
-  value = "example.com"
 +++
