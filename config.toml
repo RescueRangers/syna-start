@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://drzewiecki-nagrobki.pl"
 languageCode = "en-us"
 title = "Drzewiecki - Nagrobki"
 theme = "syna"
