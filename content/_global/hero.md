@@ -14,7 +14,7 @@ particles = false
 
 [asset]
   image = "logo.svg"
-  width = "500px" # optional - will default to image width
+  #width = "500px" # optional - will default to image width
   height = "150px" # optional - will default to image height
 
 +++
