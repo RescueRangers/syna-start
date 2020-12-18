@@ -13,13 +13,13 @@ title = "Oferujemy Państwu usługi takie jak:"
 - Ponowne montaże
 - demontaż nagrobka do pogrzebu
 - Brukarstwo przy nagrobku
-- Czysczenie nagrobków
+- Czyszczenie nagrobków
 - Renowacja / malowanie liter na nagrobkach
 - Liternictwo piaskowane / metaloplastyka / kute
 - Ekshumacje
-- Galanteria Nagroba
+- Galanteria nagrobna
   - Wazony
-  - Krzeyże
+  - Krzyże
   - Lampiony
   - Zdjęcia / portrety
   - Rzeźby
