@@ -123,6 +123,12 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Oddział Banie"
   weight = 40
 
+[[menu.main]]
+  identifier = "kontakt"
+  url = "/kontakt"
+  name = "Kontakt"
+  weight = 50
+
 [[menu.footer]]
   url = "#"
   name = "Link"
