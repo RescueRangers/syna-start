@@ -28,7 +28,7 @@ lastmod = ["lastmod", ":git", "date"]
   description = "Open Source Theme for your next project"
 
   [params.style]
-    #background = "secondary"
+    background = "light"
 
   # Theme customizations
   # Assets relative to 'static/'
