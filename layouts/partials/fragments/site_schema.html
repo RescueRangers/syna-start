@@ -20,7 +20,9 @@
     "url": "{{ .Site.BaseURL }}",
     "telephone": "+48507542346",
     "description": "{{ .Site.Params.description }}",
-    "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
+    {{ with .Site.Params.image -}}
+    "image": "{{ .url | absURL }}",
+    {{- end }}
     "license": "{{ .Site.Params.Copyright }}"
 }
 </script>

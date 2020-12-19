@@ -28,6 +28,11 @@ lastmod = ["lastmod", ":git", "date"]
   description = "Firma nagrobkowa - handel i usługi Sebastian Drzewiecki"
   logo = "favicon.png"
 
+[params.image]
+    url = "/header.jpg"
+    width = 800
+    height = 600
+
   [params.style]
     background = "light"
 
