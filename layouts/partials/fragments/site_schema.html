@@ -1,0 +1,26 @@
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "@id": "{{ .Site.BaseURL }}",
+    "name": "{{ .Site.Title }}",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Osiedle Piastów 9/2",
+        "addressLocality": "Myślibórz",
+        "postalCode": "74-300",
+        "addressCountry": "PL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 52.92956,
+        "longitude": 14.86322
+      },
+    "url": "{{ .Site.BaseURL }}",
+    "telephone": "+48507542346",
+    "description": "{{ .Site.Params.description }}",
+    "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
+    "license": "{{ .Site.Params.Copyright }}"
+}
+</script>

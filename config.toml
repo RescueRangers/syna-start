@@ -26,6 +26,7 @@ lastmod = ["lastmod", ":git", "date"]
 [params]
   name = "Firma Nagrobkowa Sebastian Drzewiecki"
   description = "Firma nagrobkowa - handel i usługi Sebastian Drzewiecki"
+  logo = "favicon.png"
 
   [params.style]
     background = "light"
