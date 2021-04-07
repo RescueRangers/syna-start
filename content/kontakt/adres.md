@@ -15,7 +15,7 @@ title = "Adres"
 
 Osiedle Piastów 9/2  
 74-300 Myślibórz  
-507 542 345  
+507 542 346  
 dzrewiecki.nagrobki@wp.pl
 
 ### Oddział Banie (koło cmentarza)
