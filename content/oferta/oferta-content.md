@@ -26,5 +26,6 @@ title = "Oferujemy Państwu usługi takie jak:"
   - Książki i poduszki nagrobne
 
 <h2 style="text-align: center;">Bezpłatna wycena oraz bezpłatny dojazd do klienta</h2>
+<h2 style="text-align: center;" class="text-danger font-weight-bold">Raty 0%</h2>
 <h2 style="text-align: center;">5 lat gwarancji</h2>
 <h2 style="text-align: center;">100% satysfakcji</h2>
