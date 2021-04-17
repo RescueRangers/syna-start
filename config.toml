@@ -9,6 +9,15 @@ version = "0.17.3"
 # Google Analytics tracking
 googleAnalytics = "G-C48PEEJ2TH"
 
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [outputs]
