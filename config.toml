@@ -6,9 +6,6 @@ theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
 
-# Google Analytics tracking
-googleAnalytics = "G-C48PEEJ2TH"
-
 [privacy]
   [privacy.disqus]
     disable = true
@@ -36,6 +33,7 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Firma Nagrobkowa Sebastian Drzewiecki"
   description = "Firma nagrobkowa - handel i usługi Sebastian Drzewiecki"
   logo = "favicon.png"
+  gtm = "G-C48PEEJ2TH"
 
 [params.image]
     url = "/images/header.jpg"
