@@ -1,4 +1,4 @@
-footer {
+/* footer {
   height: 271px;
   background-position: -215px top;
 }
@@ -12,7 +12,23 @@ footer {
   background-position: left bottom;
   background-color: #e9ebed;
   height: auto;
+} */
+
+footer {
+  background-color: #e9ebed;
+  height: auto;
+} 
+
+.footer-bg{
+  background-image: url(/images/footer-bg.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-color: #e9ebed;
+  height: 280px;
+  /* background-position: -215px top; */
+  /* background-position: -215px bottom; */
 }
+
 article,
 aside,
 details,
